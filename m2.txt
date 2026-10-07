@@ -1,2 +1,0 @@
-this is m2.txt file
-ORT-strategy
